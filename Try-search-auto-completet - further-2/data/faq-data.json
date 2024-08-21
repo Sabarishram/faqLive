@@ -1,0 +1,100 @@
+{
+    "Admission": [
+      "How do I apply for admission to the college?",
+      "What are the eligibility criteria for different programs?",
+      "Is there an entrance exam for admission?",
+      "What documents are required for the admission process?",
+      "What is the application deadline for the current academic year?",
+      "Can I update my application after submission?",
+      "What are the guidelines for international students applying?",
+      "Are there any seat reservations for specific categories?",
+      "What should I do if I face issues during the application process?",
+      "How do I cancel or withdraw my application?"
+    ],
+    "Transport": [
+      "What transportation options are available for students?",
+      "How do I apply for a college bus pass?",
+      "What are the timings and routes of the college buses?",
+      "Is there a shuttle service between hostels and the campus?",
+      "Can I use my own vehicle on campus?",
+      "Where can I park my vehicle on campus?",
+      "Are there special transport arrangements during exams?",
+      "How do I report a transport-related issue or complaint?",
+      "What safety measures are in place for college transportation?"
+    ],
+    "Placement": [
+      "When does the placement season start?",
+      "How are campus recruitment rounds typically structured?",
+      "Are there opportunities for international placements?",
+      "How many companies can I apply to during placements?",
+      "Are there placement opportunities for startups?",
+      "What is the placement percentage for the previous batch?",
+      "Are there placement opportunities for students with backlogs?",
+      "What is the highest package offered in placements?",
+      "How are students notified about placement drives?",
+      "How do I register for campus placements?",
+      "How does the college assist with resume building?",
+      "Are there any pre-placement training sessions?"
+    ],
+    "Hostel": [
+      "How do I apply for hostel accommodation?",
+      "Is Wi-Fi available in the hostel?",
+      "What are the food timings in the hostel?",
+      "Is there a shuttle service between hostels and the campus?",
+      "What is the procedure for hostel leave or night-outs?",
+      "What is the safety protocol in the hostel?",
+      "Is there a gym available in the hostel?",
+      "Is the hostel accommodation separate for boys and girls?",
+      "How many students share a room in the hostel?",
+      "Can I bring a pet to the hostel?"
+    ],
+    "Activities": [
+      "Are there cultural clubs I can join?",
+      "What volunteering opportunities are available on campus?",
+      "Are workshops and seminars conducted regularly?",
+      "Are there any social media or content creation clubs?",
+      "Are there any fashion or modeling clubs?",
+      "Is there a college magazine or newspaper that I can contribute to?",
+      "How can I become a part of the college’s student council?",
+      "Are there any coding or tech clubs in the college?",
+      "What adventure activities or trips are organized by the college?",
+      "What are the club membership fees, if any?"
+    ],
+    "Festivals/Events": [
+      "What are the main festivals celebrated at the college?",
+      "How can I participate in college festivals?",
+      "How do I register for competitions during the fest?",
+      "How do I stay updated on upcoming events and festivals?",
+      "What are some of the most popular events in college?",
+      "Are there night events like DJ musical nights?",
+      "How can I participate in inter-college festivals?",
+      "Are there religious or regional festivals celebrated in college?",
+      "What adventure activities or trips are organized by the college?",
+      "Are there any fees for the festivals that are being conducted?"
+    ],
+    "College Details": [
+      "Who is the current principal of the college?",
+      "How many students are currently enrolled in the college?",
+      "How is the college ranked nationally and internationally?",
+      "What is the college’s mission and vision?",
+      "Are there any research programs or projects offered?",
+      "Are there any student exchange programs?",
+      "Does the college have Wi-Fi for students?",
+      "How does the college promote entrepreneurship and innovation?",
+      "Where is the college located?",
+      "What tier does the college belong to?"
+    ],
+    "Academic": [
+      "What are the passing criteria for exams?",
+      "What is the minimum attendance required for the semester exam?",
+      "How are internal assessments conducted?",
+      "How can students access study materials and resources?",
+      "What is the procedure for re-evaluation?",
+      "What is the academic calendar for the year?",
+      "What is the minimum GPA required to graduate?",
+      "How are grades calculated?",
+      "How are internal assessments conducted?",
+      "How do I check my attendance percentage?"
+    ]
+  }
+  
